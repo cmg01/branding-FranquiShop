@@ -67,8 +67,10 @@ Paleta oficial según el Brand Guideline de FranquiShop. El púrpura/violeta es 
 
 ## 4. Estilo visual
 
+Estos archivos forman parte del sistema visual de FranquiShop y deben utilizarse como referencia para fondos, degradados y piezas gráficas.
+
 ### Identidad gráfica
-- **Fondo oscuro con degradado morado** + líneas finas/ondas geométricas blancas semitransparentes que sugieren conexión digital, redes, expansión — coherente con el negocio (conectar marcas y candidatos).
+- **Fondo oscuro con degradado morado**
 - **Iconografía en círculos con borde fino**, flotando sobre el fondo oscuro (bombilla, apretón de manos, diana/objetivo, globo, IA) — representan los pilares del servicio (ideas, contactos, objetivos, expansión, tecnología).
 - **Tarjetas blancas con bordes redondeados** y sombra suave para contenido informativo (buscador, fichas de franquicia).
 - **Botones tipo "pill"** (totalmente redondeados) en púrpura sólido, con texto blanco en mayúsculas.
@@ -79,7 +81,6 @@ Paleta oficial según el Brand Guideline de FranquiShop. El púrpura/violeta es 
 - **Cintas/banners en diagonal** de color (violeta, cian, blanco) superpuestas sobre la imagen para anunciar titulares o ubicaciones — recurso repetido en casi todas las piezas.
 - **Fondos mixtos:** parte de las piezas usan foto real del evento (networking, stands, fachadas) combinada con overlays de color y texto; otra parte usa fondo 100% gráfico degradado oscuro.
 - **Contadores y cuentas atrás** ("Falta 1 día") con tipografía gigante en cian sobre fondo oscuro — genera urgencia y expectación.
-- **Marcas de agua / nombre de la marca franquiciadora** siempre visibles en la esquina superior de las piezas cuando se promociona a un partner ("Sabadell", marcas participantes).
 - **Iconos de ubicación (📍) y calendario (📅)** como recurso constante para anunciar ciudad + fecha de feria — patrón muy reconocible y repetido en todo el contenido.
 - **Fotografía real de reuniones** (formato speed-meeting, dos personas hablando en mesa alta) como prueba social del formato de feria — humaniza el evento.
 
@@ -92,6 +93,14 @@ Según el Brand Guideline oficial:
 - **Logo partnership:** versión del logo principal acompañada del logotipo de **Franchise World Link** ("by Franchise World Link — Connecting Franchise Entrepreneurs"), para piezas co-brandeadas con este partner internacional.
 - El logo siempre se aplica sobre fondo blanco o sobre el degradado de marca con suficiente contraste; nunca se reduce a un solo color salvo en aplicaciones monocromas estrictas (p. ej. grabado, blanco y negro).
 
+### Fondos y degradados
+
+- `Degradado.png`: fondo degradado principal de FranquiShop. Usar como referencia para piezas corporativas, banners, portadas y creatividades visuales.
+- `degradado imagen corporativa.png`: fondo corporativo con estilo visual de marca. Usar como base para creatividades más institucionales.
+- `foco de 3.png`: recurso visual de iluminación/foco para aportar profundidad y dinamismo.
+- `foco de fondo24.png`: fondo con efecto de foco para piezas promocionales, eventos y campañas digitales.
+
+Cuando generes diseños, presentaciones, anuncios o piezas visuales para FranquiShop, utiliza estos recursos como referencia estética junto con la paleta de color, tipografías y tono de marca definidos en este documento.
 ---
 
 ## 5. Tono de voz
