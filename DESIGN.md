@@ -101,6 +101,11 @@ Según el Brand Guideline oficial:
 - `foco de fondo24.png`: fondo con efecto de foco para piezas promocionales, eventos y campañas digitales.
 
 Cuando generes diseños, presentaciones, anuncios o piezas visuales para FranquiShop, utiliza estos recursos como referencia estética junto con la paleta de color, tipografías y tono de marca definidos en este documento.
+
+Regla obligatoria de uso: los degradados, focos y overlays visuales de FranquiShop deben aplicarse siempre sobre fondos lisos oscuros, preferiblemente negro o morado muy oscuro.
+
+La base de cualquier composición debe partir de un fondo limpio y sólido. Estos recursos no deben utilizarse sobre fondos blancos, grises claros, fotografías o fondos con ruido visual.
+
 ---
 
 ## 5. Tono de voz
